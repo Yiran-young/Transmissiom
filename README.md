@@ -6,6 +6,6 @@
 4.  newtrackon ：  [https://newtrackon.com/list](https://newtrackon.com/list)
 
 # Other
-1.精选列表：[https://trackerslist.com/best.txt](https://trackerslist.com/best.txt) 
-2.完整列表：[https://trackerslist.com/all.txt](https://trackerslist.com/all.txt) 
-3.HTTP(S)列表：[https://trackerslist.com/http.txt](https://trackerslist.com/http.txt)
+1. 精选列表：[https://trackerslist.com/best.txt](https://trackerslist.com/best.txt) 
+2. 完整列表：[https://trackerslist.com/all.txt](https://trackerslist.com/all.txt) 
+3. HTTP(S)列表：[https://trackerslist.com/http.txt](https://trackerslist.com/http.txt)
