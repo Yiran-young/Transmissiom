@@ -1,2 +1,2 @@
-# Transmissiom-
+# Transmissiom
 trackerslist地址
